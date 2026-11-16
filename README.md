@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cpp-Practice&fontSize=60&fontAlignY=38&desc=Мои%20практики%20по%20C%2B%2B&descAlignY=60" width="100%" />
 
 <p align="center">
-  <b>👋 Привет! Я учусь программировать.</b><br>
   Здесь мои практические работы на C++
 </p>
 
